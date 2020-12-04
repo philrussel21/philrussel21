@@ -20,7 +20,7 @@ Tech PHILomath that enjoys challenges and building projects.
 ## 🧰 Tools & Technologies
 
 ![HTML5](https://img.icons8.com/color/40/html-5.png)![CSS3](https://img.icons8.com/color/40/css3.png)![SASS](https://img.icons8.com/color/40/sass.png)![JavaScript](https://img.icons8.com/color/40/javascript.png)![Ruby](https://img.icons8.com/color/40/ruby-programming-language.png)<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="Ruby on Rails" height="40">![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)![NodeJS](https://img.icons8.com/color/40/nodejs.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)![ReactJS](https://img.icons8.com/color/40/react-native.png)![NPM](https://img.icons8.com/color/40/npm.png)![Github](https://img.icons8.com/material-outlined/40/github.png)![Git](https://img.icons8.com/color/40/git.png)![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/40/console.png)
+![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png)![ReactJS](https://img.icons8.com/color/40/react-native.png)![NPM](https://img.icons8.com/color/40/npm.png)![Github](https://img.icons8.com/material-outlined/40/github.png)![Git](https://img.icons8.com/color/40/git.png)![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/40/console.png)
 
 ---
 
