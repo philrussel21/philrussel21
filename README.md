@@ -1,7 +1,7 @@
 <!--
 **philrussel21/philrussel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hi there 👋 ! The name's Phil Antiporda (:computer: :coffee: :open_book:)
+# Hi there 👋 ! The name's [Phil Antiporda](https://philantiporda.netlify.app/) (:computer: :coffee: :open_book:)
 
 Tech PHILomath that enjoys challenges and building projects.
 
@@ -9,7 +9,7 @@ Tech PHILomath that enjoys challenges and building projects.
 
 ---
 
-- 🧑‍💻 Currently undertaking an intensive bootcamp on [Coder Academy](https://coderacademy.edu.au/).
+- 🧑‍💻 Graduate of [Coder Academy](https://coderacademy.edu.au/)'s intensive bootcamp.
 - 🛠️ Building my developer toolbox with small projects as I learn.
 - 💝 Recenly participated Github's HacktoberFest to contribute to open source projects.
 - 🏆 2021 Goals: Secure a software developer job to learn more about the industry, commit to best practices, continue learning and to contribute more to open source community.
